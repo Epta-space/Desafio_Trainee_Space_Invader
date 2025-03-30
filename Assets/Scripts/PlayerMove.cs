@@ -16,5 +16,6 @@ public class PlayerMove : MonoBehaviour
     {
         input = Input.GetAxisRaw("Horizontal");
         transform.Translate(Vector2.right *input* velocidade * Time.deltaTime);
+
     }
 }
