@@ -328,7 +328,7 @@ MonoBehaviour:
   - {fileID: 870123899}
   - {fileID: 1092431494}
   - {fileID: 1134768017}
-  explosionPrefab: {fileID: 6437605262491347163, guid: 848f125bba0c6d44cbea5248c0fda2d1, type: 3}
+  explosionPrefab: {fileID: 8118647180694471970, guid: b507dfe28b6deb646b82b75a5d91817a, type: 3}
   points: 0
   ScoreText: {fileID: 1008584121}
   painelGameOver: {fileID: 949529307}
