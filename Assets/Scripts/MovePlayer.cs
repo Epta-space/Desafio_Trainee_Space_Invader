@@ -3,6 +3,7 @@ using UnityEngine;
 public class MovePlayer : MonoBehaviour
 {
     public float velocidade;
+    public double Timer = 0.7;
     public GameObject projetilPrefab;
     public GameObject player;
     int[] move = new int[2];
@@ -10,6 +11,7 @@ public class MovePlayer : MonoBehaviour
 
     void Update()
     {
+        Timer -= Time.deltaTime;
         if(move[0]==1)
         {
             player.transform.Translate(Vector2.right *-1* velocidade * Time.deltaTime);
@@ -21,7 +23,12 @@ public class MovePlayer : MonoBehaviour
     }
     public void fire()
     {
-        Instantiate(projetilPrefab, player.transform.position, Quaternion.identity);
+        if(Timer <=0)
+        {
+            Instantiate(projetilPrefab, player.transform.position, Quaternion.identity);
+            Timer = 0.7;
+        }
+        
     }
 
     public void move_Left()
