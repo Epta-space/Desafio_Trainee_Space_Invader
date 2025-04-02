@@ -12,7 +12,7 @@ public class projetilShot : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetButtonDown("Fire1"))
+         if(Input.GetButtonDown("Fire1"))
         {
             Instantiate(projetilPrefab, transform.position, Quaternion.identity);
         }

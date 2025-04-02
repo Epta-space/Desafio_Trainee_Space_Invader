@@ -2,20 +2,33 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using TMPro;
 
 public class PlayerLives : MonoBehaviour
 {
     public int vidas = 3;
     public Image[] livesUI;
     public GameObject explosionPrefab;
+    public int points;
+    private PointManager pointManager;
+    public TMP_Text ScoreText;
+    public GameObject painelGameOver;
+    
     void Start()
     {
-        
+        pointManager = GameObject.Find("PointManager").GetComponent<PointManager>();
     }
 
     void Update()
     {
-        
+        points = GameObject.Find("PointManager").GetComponent<PointManager>().score;
+    }
+
+    public void Setup(int score)
+    {
+        painelGameOver.SetActive(true);
+        ScoreText.text = "SCORE: " + score.ToString() + " POINTS";
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -39,6 +52,7 @@ public class PlayerLives : MonoBehaviour
             if(vidas <= 0)
             {
                 Destroy(gameObject);
+                Setup(points);
             }
         }
 
@@ -61,6 +75,7 @@ public class PlayerLives : MonoBehaviour
             if (vidas <= 0)
             {
                 Destroy(gameObject);
+                Setup(points);
             }
         }
     }
