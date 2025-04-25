@@ -1,0 +1,23 @@
+# ninja log v5
+57	4105	7654144508608441	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	3cc6e3df95c94bd6
+4146	6653	7654144534156357	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b2614439b0510f19
+17	4437	7654144511741149	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1643873a122e4fa6
+83	4146	7654144508653575	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9a1c7bda5946efe3
+51	4212	7654144509564993	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	4d35260929f7636d
+4772	5438	7654144521680621	C:/Users/thiag/OneDrive/Documentos/GitHub/Desafio_Trainee_Space_Invader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/635e3j63/obj/armeabi-v7a/libswappywrapper.so	6713b9481d734562
+4212	4771	7654144515176855	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	3413f1980a6ac9db
+63	4891	7654144516285024	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6032bd9435e901f2
+74	4895	7654144516043301	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	36d7b7ac45570c14
+4106	6729	7654144535183481	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	122626ee052a1ff2
+6730	6896	7654144537005772	C:/Users/thiag/OneDrive/Documentos/GitHub/Desafio_Trainee_Space_Invader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/635e3j63/obj/armeabi-v7a/libgame.so	a0210e777716e17f
+64	4617	7654241718141553	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9a1c7bda5946efe3
+43	4712	7654241718910537	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	4d35260929f7636d
+70	4736	7654241719006490	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	122626ee052a1ff2
+24	4756	7654241719202898	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1643873a122e4fa6
+54	4823	7654241719923003	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	3cc6e3df95c94bd6
+4736	5188	7654241724047903	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	3413f1980a6ac9db
+49	5485	7654241727029031	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6032bd9435e901f2
+5189	6173	7654241731868476	C:/Users/thiag/OneDrive/Documentos/GitHub/Desafio_Trainee_Space_Invader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/635e3j63/obj/armeabi-v7a/libswappywrapper.so	6713b9481d734562
+4713	8551	7654241757554117	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b2614439b0510f19
+4618	9429	7654241764159984	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	36d7b7ac45570c14
+9431	11198	7654241782146547	C:/Users/thiag/OneDrive/Documentos/GitHub/Desafio_Trainee_Space_Invader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/635e3j63/obj/armeabi-v7a/libgame.so	a0210e777716e17f

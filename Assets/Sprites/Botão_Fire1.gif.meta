@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Bot\xE3o_Fire1_0": 3260737583171419405
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
