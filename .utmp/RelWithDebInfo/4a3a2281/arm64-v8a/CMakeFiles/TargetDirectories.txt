@@ -1,0 +1,5 @@
+C:/EPTA/Desafio_Trainee_Space_Invader/.utmp/RelWithDebInfo/4a3a2281/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/EPTA/Desafio_Trainee_Space_Invader/.utmp/RelWithDebInfo/4a3a2281/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/EPTA/Desafio_Trainee_Space_Invader/.utmp/RelWithDebInfo/4a3a2281/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/EPTA/Desafio_Trainee_Space_Invader/.utmp/RelWithDebInfo/4a3a2281/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/EPTA/Desafio_Trainee_Space_Invader/.utmp/RelWithDebInfo/4a3a2281/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

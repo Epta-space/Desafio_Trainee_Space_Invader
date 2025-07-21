@@ -1,0 +1,5 @@
+# ninja log v5
+93	167	7748084612484094	C:/EPTA/Desafio_Trainee_Space_Invader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2152h5mo/obj/armeabi-v7a/libswappywrapper.so	8fe8a467a2b919d
+1	92	7748084611754400	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7cf6fbd20b0dd4cd
+1	89	7748085896614785	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7cf6fbd20b0dd4cd
+89	162	7748085897332401	C:/EPTA/Desafio_Trainee_Space_Invader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2152h5mo/obj/armeabi-v7a/libswappywrapper.so	8fe8a467a2b919d
