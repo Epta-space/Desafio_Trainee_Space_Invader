@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Menu_Void_Raider_1_0: 3113793192061691400
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
