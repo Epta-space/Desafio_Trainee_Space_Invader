@@ -1,5 +1,5 @@
 # ninja log v5
-1	85	7748087487160033	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d636d31487bd1274
-87	173	7748087488053818	C:/EPTA/Desafio_Trainee_Space_Invader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4a3a2281/obj/armeabi-v7a/libswappywrapper.so	f0ae023b755ae767
-1	102	7772524157761299	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d636d31487bd1274
-103	255	7772524159303537	C:/EPTA/Desafio_Trainee_Space_Invader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4a3a2281/obj/armeabi-v7a/libswappywrapper.so	f0ae023b755ae767
+1	94	7772537591148688	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d636d31487bd1274
+94	175	7772537591967809	C:/EPTA/Desafio_Trainee_Space_Invader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4a3a2281/obj/armeabi-v7a/libswappywrapper.so	f0ae023b755ae767
+2	169	7772540205601460	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d636d31487bd1274
+170	301	7772540206883327	C:/EPTA/Desafio_Trainee_Space_Invader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4a3a2281/obj/armeabi-v7a/libswappywrapper.so	f0ae023b755ae767

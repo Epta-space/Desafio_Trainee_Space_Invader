@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7c33ea0c64de078459135b9166a66e9f
+guid: d0763f723f6910e44832735f08a4bda0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3113793192061691400
-    second: Menu_Void_Raider_1_0
+      213: 8187938427941026524
+    second: Thiago - epta logo (PNG)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -123,19 +123,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WindowsStoreApps
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -152,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Menu_Void_Raider_1_0
+      name: Thiago - epta logo (PNG)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1600
-        height: 897
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 806eddc196a663b20800000000000000
-      internalID: 3113793192061691400
+      spriteID: cdaf1306e9661a170800000000000000
+      internalID: 8187938427941026524
       vertices: []
       indices: 
       edges: []
@@ -187,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Menu_Void_Raider_1_0: 3113793192061691400
+      Thiago - epta logo (PNG)_0: 8187938427941026524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
